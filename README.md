@@ -5,6 +5,7 @@ I have also included the login mechanism using Firebase email authentication. Th
 
 ## Technology & Framework:
 - React
+- Redux
 - HTML
 - CSS
 - Material UI
