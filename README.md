@@ -20,3 +20,7 @@ You can checkout the demo : https://linkedin-clone-b216d.web.app/
 User Authentication
 
 ![](https://github.com/shubhamkhandelwal/linkedin-clone/blob/main/Github_asset/Login.jpg?raw=true)
+
+User Home Page
+
+![](https://github.com/shubhamkhandelwal/linkedin-clone/blob/main/Github_asset/Main%20Screen.jpg?raw=true)
