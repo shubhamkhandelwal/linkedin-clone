@@ -14,3 +14,9 @@ I have also included the login mechanism using Firebase email authentication. Th
 # LIVE DEMO
 
 You can checkout the demo : https://linkedin-clone-b216d.web.app/
+
+# CLONE SCREENSHOT
+
+User Authentication
+
+![](https://github.com/shubhamkhandelwal/linkedin-clone/blob/main/Github_asset/Login.jpg?raw=true)
