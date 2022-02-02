@@ -10,6 +10,6 @@ I have also included the login mechanism using Firebase email authentication. Th
 - Material UI
 - Firebase
 
-#Live Demo
+# LIVE DEMO
 
 You can checkout the demo : https://linkedin-clone-b216d.web.app/
